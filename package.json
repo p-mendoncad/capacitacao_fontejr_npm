@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "echo Primeiro foi necessario utiliar o comando 'npm init' para criar o arquivo 'package.json'. Após essa parte os vídeos trabalharam sobre a instalacao e remocao de dependencias e dependencias de desenvolvimento. Resolvi escrever as informações pelo script para adicionar a interacao com o terminal.Faz-se necessario criar um arquivo.gitignore devido aos muitos arquivos da pasta node_modules. Feito isso, já podemos subir o arquivo normalmente."
+    "start": "echo O npm é um gerenciador de pacotes para nodeJS. Primeiro foi necessario utiliar o comando 'npm init' para criar o arquivo 'package.json'. Após essa parte os vídeos trabalharam sobre a instalacao e remocao de dependencias e dependencias de desenvolvimento. Resolvi escrever as informações pelo script para adicionar a interacao com o terminal.Faz-se necessario criar um arquivo.gitignore devido aos muitos arquivos da pasta node_modules. Feito isso, já podemos subir o arquivo normalmente."
     
   },
   "keywords": [],
